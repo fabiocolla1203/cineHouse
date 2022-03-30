@@ -1,0 +1,2 @@
+const call = () => console.log("hello")
+    function dizHello(callback)

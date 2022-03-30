@@ -56,3 +56,4 @@ console.table(catalogo);
 //Alterando status do filme cód 2
 alterarStatusEmCartaz(2);
 console.table(catalogo);
+console.log(cinema)
