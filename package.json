@@ -1,0 +1,17 @@
+{
+  "name": "cineHouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cinema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moon": "^1.0.0-beta.7",
+    "node": "^17.7.1",
+    "nodemon": "^2.0.15"
+  }
+}
